@@ -1,4 +1,4 @@
-package com.skwyha.object_oriented;
+package object_oriented.senior.chapter6_2;
 
 // 定义抽象类A
 abstract class A {

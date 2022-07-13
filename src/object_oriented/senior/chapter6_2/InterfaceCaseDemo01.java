@@ -1,4 +1,4 @@
-package com.skwyha.object_oriented;
+package object_oriented.senior.chapter6_2;
 
 // 定义接口A
 interface A1 {
